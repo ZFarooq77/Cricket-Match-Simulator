@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  Source1.cpp
+  TeamA.cpp
+  TeamABatting.cpp
+  TeamB.cpp
+  TeamBBatting.cpp
+  Generating Code...
+G:\BSCS\Semister 2\I21-2974_ZainabFarooq_FinalProject\CricketMatch\TeamBBatting.cpp(103,1): warning C4715: 'ballFunction_B': not all control paths return a value
+G:\BSCS\Semister 2\I21-2974_ZainabFarooq_FinalProject\CricketMatch\TeamABatting.cpp(105,1): warning C4715: 'ballFunction_A': not all control paths return a value
+  CricketMatch.vcxproj -> G:\BSCS\Semister 2\I21-2974_ZainabFarooq_FinalProject\Debug\CricketMatch.exe
